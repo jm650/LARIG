@@ -121,7 +121,7 @@ Channel Number,Receive Frequency,Transmit Frequency,Offset Frequency,Offset Dire
 120,462.6500,,,No Transmit,FM,PORGMR,Tone,77.0 Hz,77.0 Hz,,,Both N,Low,Portable GMRS Repeater,,
 121,462.6750,,,No Transmit,FM,MORGMR,Tone,77.0 Hz,77.0 Hz,,,Both N,Low,Moraga GMRS Repeater,,
 122,462.7000,,,No Transmit,FM,ORIGMR,Tone,77.0 Hz,77.0 Hz,,,Both N,Low,Orinda GMRS Repeater,,
-123,462.7250,,,No Transmit,FM,LAF-SO,Tone,77.0 Hz,77.0 Hz,,,Both N,Low,Lafayette GMRS Repeater,,
+123,462.7250,,,No Transmit,FM,LAF-SO,Tone,77.0 Hz,77.0 Hz,,,Both N,Low,South Lafayette GMRS Repeater,,
 124,442.9750,447.9750,5.00 MHz,Plus,FM,POR440,Tone,123.0 Hz,123.0 Hz,,,Both N,High,LARG Portable 440 Repeater,,
 125,442.9750,447.9750,5.00 MHz,Plus,FM,LAF440,Tone,123.0 Hz,123.0 Hz,,,Both N,High,LARIG Lafayette Repeater Resource/Message Net,,
 126,440.5500,445.5500,5.00 MHz,Plus,FM,MOR440,Tone,123.0 Hz,123.0 Hz,,,Both N,High,LARIG Moraga Repeater Resource/Message Net,,
